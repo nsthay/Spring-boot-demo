@@ -1,5 +1,6 @@
 package com.nksthay.springboot.web.model;
 
+//Represents a movie for JSON mapping and holds movie information
 public class Movie {
 	private String title;
 	private String year;
